@@ -1,0 +1,15 @@
+.mt {
+  margin-top: 20px;
+}
+
+.rounded {
+  border-radius: 50%;
+}
+
+.btn-github{
+  background: #212223;
+  color: white;
+  padding: 7px;
+  border-radius: 3px;
+  text-decoration: none;
+}
